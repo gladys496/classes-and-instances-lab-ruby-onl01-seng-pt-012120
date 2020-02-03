@@ -4,6 +4,7 @@
   end
 end
 
+
 name  = Dog.new ("Lassie")
 puts name  
 
