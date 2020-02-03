@@ -5,10 +5,10 @@
 end
 
 fido = Dog.new
-puts fido 
+puts name  
 
 snoopy = Dog.new
-puts dog 
+puts name 
 
 lassie = Dog.new
-puts lassie 
+puts name 
