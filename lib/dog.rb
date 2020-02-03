@@ -5,10 +5,10 @@
 end
 
 dog = Dog.new("Fido")
-puts dog 
+puts dog.name 
 
 dog = Dog.new("Snoopy")
-puts dog 
+puts dog.name  
 
 dog = Dog.new("Lassie")
-puts dog 
+puts dog.name 
