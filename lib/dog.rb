@@ -6,3 +6,5 @@ end
 
 dog = Dog.new("Fido")
 
+dog = Dog.new("Snoopy")
+
