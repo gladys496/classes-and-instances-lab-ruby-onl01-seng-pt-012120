@@ -4,11 +4,11 @@
   end
 end
 
-fido = Dog.new
+name  = Dog.new ("Lassie")
 puts name  
 
-snoopy = Dog.new
+name = Dog.new ("Snoopy")
 puts name 
 
-lassie = Dog.new
+name = Dog.new ("Lassie")
 puts name 
