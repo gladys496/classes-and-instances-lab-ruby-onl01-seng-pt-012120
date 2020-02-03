@@ -3,12 +3,3 @@
     @name = name
   end
 end
-
-name  = Dog.new ("Lassie")
-puts name  
-
-name = Dog.new ("Snoopy")
-puts name 
-
-name = Dog.new ("Lassie")
-puts name 
