@@ -10,10 +10,10 @@ def name
 end
 
 name  = Dog.new ("Lassie")
-puts name  
+puts dog.name  
 
 name = Dog.new ("Snoopy")
-puts name 
+puts dog.name 
 
 name = Dog.new ("Lassie")
-puts name 
+puts dog.name 
