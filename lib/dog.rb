@@ -4,7 +4,10 @@
   end
 end
 
-
+def name
+    @name
+  end
+end
 name  = Dog.new ("Lassie")
 puts name  
 
