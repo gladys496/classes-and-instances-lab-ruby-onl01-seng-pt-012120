@@ -5,3 +5,4 @@
 end
 
 dog = Dog.new("Fido")
+
